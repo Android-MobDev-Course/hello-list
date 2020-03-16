@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hello List</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_info">Info</string>
+    <string name="i_am_a_fragment">Hello I am a Fragment !</string>
+
+</resources>

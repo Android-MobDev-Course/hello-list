@@ -1,0 +1,4 @@
+#Mon Mar 16 19:42:10 CET 2020
+base.0=/Users/marcopicone/Desktop/MobDev/HelloList/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
